@@ -1,2 +1,3 @@
 # config-files
-a place for me to dump all of my configs
+This is where I'll be putting all of my config files over the course of the next few months  
+Nothing particularly noteworthy but maybe someone wants it
